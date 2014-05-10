@@ -1,3 +1,4 @@
+#!/bin/bash
 
 sudo bash -c "echo 'export LANGUAGE=en_US.UTF-8' >> /etc/bash.bashrc"
 sudo bash -c "echo 'export LANG=en_US.UTF-8' >> /etc/bash.bashrc"
